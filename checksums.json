@@ -1,0 +1,16 @@
+[
+  {
+    "edition": "Standard",
+    "file": "Brave-Tamer-BLAST-MOD-Edition-v1.0.ips",
+    "size": 5288,
+    "sha256": "46ae7899645e6f578286c5eab2c2a38b08c251fffed39c8a5ec6c0bf5ca2e228",
+    "base": "abc4cff28f85daebc801aafcb89d498eea1142511abcd24a6a13f7331e644237"
+  },
+  {
+    "edition": "SRAM",
+    "file": "Brave-Tamer-SRAM-BLAST-MOD-Edition-v1.0.ips",
+    "size": 5288,
+    "sha256": "af091598b6c0295ea6889a4e17a3245a60de86570e798533fd2d20f58d3da828",
+    "base": "5bf3cb8fa128767c4ab505c61aed88b11a6f0ccdf43269fd3d047c740f60f04c"
+  }
+]

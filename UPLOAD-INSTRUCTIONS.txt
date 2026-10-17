@@ -1,0 +1,1 @@
+Replace index.html and index-zh-HK.html in the root of your GitHub repository with these two files. Keep your existing PNG, IPS, CSS and JavaScript files in the root. Commit the changes and wait for GitHub Pages to deploy.
